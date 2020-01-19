@@ -1,0 +1,76 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+encoding: utf-8
+# Site settings
+title: Jiang LiHeng
+brief-intro: Good is good, but better carries it.
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://jiangliheng.github.io' # the base hostname & protocol for your site
+
+permalink: /:year/:month/:day/:title/
+
+# other links
+twitter_username:
+facebook_username:
+github_username: jiangliheng
+email: jiang_liheng@163.com
+weibo_username:
+zhihu_username:
+linkedIn_username:
+dribbble_username:
+
+description_footer: 本站记录我成长之路的点点滴滴！
+
+# comments
+# 三种评论插件，选一个就好了
+disqus_shortname: #jiangliheng
+gitalk:
+  enable: false
+  clientID: 62c44eca03d4342a93c0
+  clientSecret: 0797a273f4baddbbe4e4a9cf9a282d9b662d61c6
+  repo: jiangliheng.github.io
+  owner: jiangliheng
+  admin: jiangliheng
+utteranc_es:
+  enable: true
+  repo: 'jiangliheng/jiangliheng.github.io'
+  issue-term: pathname
+  theme: github-light
+
+# 赞赏
+reward:
+  enable: true
+  wechat: /assets/images/reward/wechat.png
+  alipay: /assets/images/reward/alipay.png
+
+# statistic analysis 统计代码
+# 百度统计 id，将统计代码替换为自己的百度统计id，即
+# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
+# xxxxx字符串
+baidu_tongji_id:
+google_analytics_id:
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# port
+# port: 1234
+
+# url
+category_dir: category/
+tag_dir: tag/
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+plugins: [jekyll-paginate]
+paginate: 10
