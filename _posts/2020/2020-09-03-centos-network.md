@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Centos 网卡命名规范及信息查看（物理网卡，虚拟网卡）"
-date: "2020-09-3 20:00"
+date: "2020-09-03 20:00"
 category: Linux
 tags: Linux Centos biosdevname net.ifnames
 author: jiangliheng
