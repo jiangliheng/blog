@@ -9,6 +9,8 @@ author: jiangliheng
 * content
 {:toc}
 
+**JDK Bug（[JDK-8177809](https://bugs.openjdk.java.net/browse/JDK-8177809)）**： ```File.lastModified()``` 在 ```Linux/Unix``` 平台获取精度为秒，应该为毫秒。
+
 
 
 # 背景

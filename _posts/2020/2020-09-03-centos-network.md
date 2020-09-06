@@ -9,6 +9,10 @@ author: jiangliheng
 * content
 {:toc}
 
+Centos 6及之前的版本网卡命名格式：```eth[0123…]```。
+
+Centos 7为了方便定位和区分网络设备，采用```一致网络设备命名（CONSISTENT NETWORK DEVICE NAMING）```规范，支持 ```biosdevname``` 和 ```net.ifnames``` 两种命名规范。
+
 
 
 # 背景
