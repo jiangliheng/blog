@@ -3,7 +3,7 @@ layout: post
 title: "组合测试术语：Pairwise/All-Pairs、OATS（Orthogonal Array Testing Strategy）"
 date: "2020-10-21 20:00"
 category: 组合测试
-tags: Pairwise All-Pairs OAT 配对测试 正交表
+tags: Pairwise All-Pairs OATS 配对测试 正交表
 author: jiangliheng
 ---
 * content
