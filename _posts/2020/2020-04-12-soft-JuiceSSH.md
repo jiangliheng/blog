@@ -2,7 +2,7 @@
 layout: post
 title: "JuiceSSH：安卓平台免费好用的 SSH 客户端"
 date: "2020-04-12 22:30"
-category: soft
+category: Soft
 tags: JuiceSSH
 author: jiangliheng
 ---

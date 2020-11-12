@@ -2,7 +2,7 @@
 layout: post
 title: "Mac 窗口管理软件 Spectacle"
 date: "2020-04-11 19:00"
-category: soft
+category: Soft
 tags: Spectacle Magnet
 author: jiangliheng
 ---

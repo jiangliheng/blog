@@ -2,7 +2,7 @@
 layout: post
 title: "跨平台开源密码管理器 KeePassXC"
 date: "2020-04-06 00:30"
-category: soft
+category: Soft
 tags: Linux KeePassXC
 author: jiangliheng
 ---

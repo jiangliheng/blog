@@ -2,8 +2,8 @@
 layout: post
 title: "基于 Njmon + InfluxDB + Grafana 实现性能指标实时可视监控"
 date: "2020-03-15 22:00"
-category: njmon
-tags: Linux njmon InfluxDB Grafana
+category: Njmon
+tags: Linux Njmon InfluxDB Grafana
 author: jiangliheng
 ---
 * content
