@@ -27,7 +27,7 @@ PS: 同一天上传或发布视频太多时，会被西瓜视频限流。
 
 ```bash
 # 安装依赖
-$ pip install selenium PyKeyboard PyMouse pyperclip
+$ pip install selenium PyUserInput pyperclip
 
 # 安装 chromedriver
 $ brew install chromedriver
@@ -353,7 +353,7 @@ class XiGua:
 
     def xigua_save_cookies(self, base_url, cookies_file_path):
         """
-        西瓜视频发布草稿
+        保存网站 cookie
 
         base_url: 网站地址
         cookies_file_path: 网站 cookies 文件路径
