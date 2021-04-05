@@ -3,7 +3,7 @@ layout: post
 title: "ADB 调试手机的三种方式（USB、WLAN、WIFI）"
 date: "2021-04-05 18:30"
 category: APP自动化
-tags: adb
+tags: ADB
 author: jiangliheng
 ---
 * content
