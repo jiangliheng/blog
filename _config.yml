@@ -9,7 +9,7 @@ encoding: utf-8
 title: Jiang LiHeng
 brief-intro: Good is good, but better carries it.
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://jiangliheng.github.io' # the base hostname & protocol for your site
+url: 'https://jiangliheng.github.io/blog' # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
